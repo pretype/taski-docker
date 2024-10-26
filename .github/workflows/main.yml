@@ -62,4 +62,3 @@ jobs:
           context: ./backend/
           push: true
           tags: ваш-логин-на-docker-hub/taski_backend:latest
-#
